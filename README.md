@@ -18,6 +18,6 @@ RFM is Recency, Frequency, Monetary. It looks at what was the last time a custom
 
 Contact For any inquiries or feedback regarding this project, feel free to contact:
 
-Rutuja Gabhane:Rutujagabhane20@gmail.com
+Rutuja Gabhane: rutujagabhane20@gmail.com
 
 About
